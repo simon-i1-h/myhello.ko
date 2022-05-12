@@ -4,3 +4,7 @@
 - https://www.kernel.org/doc/html/latest/kbuild/modules.html
 - https://www.kernel.org/doc/htmldocs/kernel-api/chrdev.html
 - https://sysprog21.github.io/lkmpg/
+
+## Copyright
+
+(c) 2022 Itoh Shimon
