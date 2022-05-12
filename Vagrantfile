@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 

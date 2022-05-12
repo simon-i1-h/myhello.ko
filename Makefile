@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 .PHONY: all vagrant-all clean vagrant-clean vagrant-setup destroy
 
 KDIR = /lib/modules/$(shell uname -r)/build
